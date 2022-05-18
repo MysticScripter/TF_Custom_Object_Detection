@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Caring for vintage T-shirts_ _If you.jpg</filename>
+	<path>/home/mysticscripter/shirts/images/Caring for vintage T-shirts_ _If you.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>930</width>
+		<height>558</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>123</ymin>
+			<xmax>862</xmax>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+</annotation>

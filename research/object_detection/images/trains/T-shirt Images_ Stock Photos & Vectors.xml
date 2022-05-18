@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>T-shirt Images_ Stock Photos &amp; Vectors.jpg</filename>
+	<path>/home/mysticscripter/shirts/images/T-shirt Images_ Stock Photos &amp; Vectors.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>424</width>
+		<height>280</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>round-necked tshirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>32</ymin>
+			<xmax>195</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>round-necked tshirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>26</ymin>
+			<xmax>392</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

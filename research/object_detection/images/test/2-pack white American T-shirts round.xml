@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>2-pack white American T-shirts round.jpg</filename>
+	<path>/home/mysticscripter/shirts/images/2-pack white American T-shirts round.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>760</width>
+		<height>1099</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>round-necked tshirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>255</ymin>
+			<xmax>714</xmax>
+			<ymax>855</ymax>
+		</bndbox>
+	</object>
+</annotation>

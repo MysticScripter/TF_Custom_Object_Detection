@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>An Accidental Collection _ The New Yorker (1).jpg</filename>
+	<path>/home/mysticscripter/shirts/images/An Accidental Collection _ The New Yorker (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2021</width>
+		<height>2560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>182</ymin>
+			<xmax>1642</xmax>
+			<ymax>2190</ymax>
+		</bndbox>
+	</object>
+</annotation>

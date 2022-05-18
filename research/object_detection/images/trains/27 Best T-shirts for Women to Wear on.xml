@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>27 Best T-shirts for Women to Wear on.jpg</filename>
+	<path>/home/mysticscripter/shirts/images/27 Best T-shirts for Women to Wear on.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2580</width>
+		<height>1451</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>207</ymin>
+			<xmax>1041</xmax>
+			<ymax>987</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1010</xmin>
+			<ymin>267</ymin>
+			<xmax>1667</xmax>
+			<ymax>1164</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1636</xmin>
+			<ymin>164</ymin>
+			<xmax>2433</xmax>
+			<ymax>1110</ymax>
+		</bndbox>
+	</object>
+</annotation>

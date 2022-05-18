@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Allen Solly Shirts_ Allen Solly Sky.jpg</filename>
+	<path>/home/mysticscripter/shirts/images/Allen Solly Shirts_ Allen Solly Sky.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>long-sleeved shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>376</ymin>
+			<xmax>913</xmax>
+			<ymax>1374</ymax>
+		</bndbox>
+	</object>
+</annotation>

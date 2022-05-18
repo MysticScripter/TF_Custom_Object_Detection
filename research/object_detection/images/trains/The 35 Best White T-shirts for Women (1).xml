@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>The 35 Best White T-shirts for Women (1).jpg</filename>
+	<path>/home/mysticscripter/shirts/images/The 35 Best White T-shirts for Women (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2667</width>
+		<height>2667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>round-necked tshirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>304</xmin>
+			<ymin>348</ymin>
+			<xmax>2354</xmax>
+			<ymax>2335</ymax>
+		</bndbox>
+	</object>
+</annotation>

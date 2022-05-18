@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>11 Types of Shirts Every Man Should.jpg</filename>
+	<path>/home/mysticscripter/shirts/images/11 Types of Shirts Every Man Should.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>long-sleeved shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>174</ymin>
+			<xmax>499</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>long-sleeved shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>432</xmin>
+			<ymin>174</ymin>
+			<xmax>701</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>

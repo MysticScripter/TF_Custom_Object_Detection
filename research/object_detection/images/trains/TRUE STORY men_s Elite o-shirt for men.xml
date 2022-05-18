@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>TRUE STORY men_s Elite o-shirt for men.jpg</filename>
+	<path>/home/mysticscripter/shirts/images/TRUE STORY men_s Elite o-shirt for men.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>round-necked tshirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>20</ymin>
+			<xmax>692</xmax>
+			<ymax>785</ymax>
+		</bndbox>
+	</object>
+</annotation>

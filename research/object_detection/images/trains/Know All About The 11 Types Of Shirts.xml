@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Know All About The 11 Types Of Shirts.jpg</filename>
+	<path>/home/mysticscripter/shirts/images/Know All About The 11 Types Of Shirts.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>564</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>long-sleeved official shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>144</ymin>
+			<xmax>473</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

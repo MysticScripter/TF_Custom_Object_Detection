@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Charles Tyrwhitt.jpg</filename>
+	<path>/home/mysticscripter/shirts/images/Charles Tyrwhitt.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>735</width>
+		<height>645</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>long-sleeved official shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>208</ymin>
+			<xmax>371</xmax>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>long-sleeved official shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>366</xmin>
+			<ymin>55</ymin>
+			<xmax>733</xmax>
+			<ymax>585</ymax>
+		</bndbox>
+	</object>
+</annotation>

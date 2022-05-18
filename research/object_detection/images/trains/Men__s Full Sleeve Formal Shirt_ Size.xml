@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Men__s Full Sleeve Formal Shirt_ Size.jpg</filename>
+	<path>/home/mysticscripter/shirts/images/Men__s Full Sleeve Formal Shirt_ Size.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>short-sleeved official shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>7</ymin>
+			<xmax>479</xmax>
+			<ymax>499</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>long-sleeved official shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>2</ymin>
+			<xmax>466</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>

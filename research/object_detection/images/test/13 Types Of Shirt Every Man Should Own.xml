@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>13 Types Of Shirt Every Man Should Own.jpeg</filename>
+	<path>/home/mysticscripter/shirts/images/13 Types Of Shirt Every Man Should Own.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1444</width>
+		<height>1819</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>polo shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>651</xmin>
+			<ymin>422</ymin>
+			<xmax>1011</xmax>
+			<ymax>888</ymax>
+		</bndbox>
+	</object>
+</annotation>

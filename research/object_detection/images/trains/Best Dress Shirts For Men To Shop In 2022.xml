@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Best Dress Shirts For Men To Shop In 2022.jpg</filename>
+	<path>/home/mysticscripter/shirts/images/Best Dress Shirts For Men To Shop In 2022.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1198</width>
+		<height>1198</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>long-sleeved shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>376</xmin>
+			<ymin>299</ymin>
+			<xmax>984</xmax>
+			<ymax>1066</ymax>
+		</bndbox>
+	</object>
+</annotation>

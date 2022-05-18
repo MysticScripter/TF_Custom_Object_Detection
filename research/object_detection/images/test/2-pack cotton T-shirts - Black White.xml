@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>2-pack cotton T-shirts - Black White.jpg</filename>
+	<path>/home/mysticscripter/shirts/images/2-pack cotton T-shirts - Black White.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1152</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>round-necked tshirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>218</ymin>
+			<xmax>689</xmax>
+			<ymax>937</ymax>
+		</bndbox>
+	</object>
+</annotation>

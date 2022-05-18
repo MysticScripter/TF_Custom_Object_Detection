@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>All Men_s Shirts - Boot Barn.jpeg</filename>
+	<path>/home/mysticscripter/shirts/images/All Men_s Shirts - Boot Barn.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>784</width>
+		<height>980</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>polo shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>240</ymin>
+			<xmax>620</xmax>
+			<ymax>804</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Men_s Shirts _ Shirts for Men _ Boden UK.jpg</filename>
+	<path>/home/mysticscripter/shirts/images/Men_s Shirts _ Shirts for Men _ Boden UK.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>621</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>long-sleeved official shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>157</ymin>
+			<xmax>472</xmax>
+			<ymax>567</ymax>
+		</bndbox>
+	</object>
+</annotation>

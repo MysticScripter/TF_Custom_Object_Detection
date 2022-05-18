@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Men _ Casual &amp; Smart Shirts _ H&amp;M SG.jpg</filename>
+	<path>/home/mysticscripter/shirts/images/Men _ Casual &amp; Smart Shirts _ H&amp;M SG.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>264</width>
+		<height>396</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>short-sleeved official shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>95</ymin>
+			<xmax>223</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>

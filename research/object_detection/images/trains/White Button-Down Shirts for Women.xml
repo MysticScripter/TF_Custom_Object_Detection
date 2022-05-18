@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>White Button-Down Shirts for Women.jpg</filename>
+	<path>/home/mysticscripter/shirts/images/White Button-Down Shirts for Women.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3500</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>250</xmin>
+			<ymin>563</ymin>
+			<xmax>1408</xmax>
+			<ymax>1724</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1273</xmin>
+			<ymin>40</ymin>
+			<xmax>2400</xmax>
+			<ymax>1105</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2269</xmin>
+			<ymin>455</ymin>
+			<xmax>3415</xmax>
+			<ymax>1501</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Cotton t-shirt with embroidery _ Women.jpg</filename>
+	<path>/home/mysticscripter/shirts/images/Cotton t-shirt with embroidery _ Women.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1960</width>
+		<height>2622</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>238</ymin>
+			<xmax>1634</xmax>
+			<ymax>2151</ymax>
+		</bndbox>
+	</object>
+</annotation>

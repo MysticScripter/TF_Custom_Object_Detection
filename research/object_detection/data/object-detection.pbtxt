@@ -1,0 +1,16 @@
+item {
+	id: 1
+	name: 'long-sleeved shirt'
+        id: 2
+	name: 'casual round-necked tshirt'
+        id: 3
+	name: 'polo shirt'
+	id: 4
+	name: 'round-necked tshirt'
+	id: 5
+	name: 'blouse'
+	id: 6
+	name: 'long-sleeved official shirt'
+	id: 7
+	name: 'short-sleeved official shirt'
+}

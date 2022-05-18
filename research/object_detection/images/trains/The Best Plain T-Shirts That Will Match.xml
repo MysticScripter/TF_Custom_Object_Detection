@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>The Best Plain T-Shirts That Will Match.jpg</filename>
+	<path>/home/mysticscripter/shirts/images/The Best Plain T-Shirts That Will Match.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2100</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>517</xmin>
+			<ymin>278</ymin>
+			<xmax>1642</xmax>
+			<ymax>1220</ymax>
+		</bndbox>
+	</object>
+</annotation>

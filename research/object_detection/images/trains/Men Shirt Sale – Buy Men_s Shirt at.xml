@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Men Shirt Sale – Buy Men_s Shirt at.jpg</filename>
+	<path>/home/mysticscripter/shirts/images/Men Shirt Sale – Buy Men_s Shirt at.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>2379</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>long-sleeved shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>413</ymin>
+			<xmax>1874</xmax>
+			<ymax>2354</ymax>
+		</bndbox>
+	</object>
+</annotation>

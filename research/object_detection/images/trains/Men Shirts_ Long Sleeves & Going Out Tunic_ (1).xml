@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Men Shirts_ Long Sleeves &amp; Going Out Tunic_ (1).jpg</filename>
+	<path>/home/mysticscripter/shirts/images/Men Shirts_ Long Sleeves &amp; Going Out Tunic_ (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>long-sleeved shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>586</ymin>
+			<xmax>1184</xmax>
+			<ymax>1805</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Mens Shirts Price In Pakistan - Rs. 499 (1).jpg</filename>
+	<path>/home/mysticscripter/shirts/images/Mens Shirts Price In Pakistan - Rs. 499 (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>757</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>polo shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>25</ymin>
+			<xmax>608</xmax>
+			<ymax>679</ymax>
+		</bndbox>
+	</object>
+</annotation>
